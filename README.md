@@ -24,7 +24,7 @@ A Bell state is a maximally entangled two-qubit state — fundamental in quantum
 
 **1️⃣ Clone the repo**
 
-git clone https://github.com/your-username/bell-state-qiskit-demo.git
+git clone https://github.com/your-username/bell-state-qiskit-demo.git  <br>
 cd bell-state-qiskit-demo
 
 2️⃣ Install requirements
