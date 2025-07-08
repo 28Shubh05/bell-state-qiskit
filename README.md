@@ -40,4 +40,4 @@ pip install qiskit matplotlib
 
 Shubham Sharma
 
-📫 Connect: workid.shubham@example.com | [LinkedIn](www.linkedin.com/in/shubh01sharma)
+📫 Connect: workid.shubham@example.com | [LinkedIn](https://www.linkedin.com/in/shubh01sharma)
