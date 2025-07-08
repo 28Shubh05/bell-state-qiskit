@@ -24,11 +24,16 @@ A Bell state is a maximally entangled two-qubit state — fundamental in quantum
 
 **1️⃣ Clone the repo**
 
-git clone https://github.com/your-username/bell-state-qiskit-demo.git  <br>
-cd bell-state-qiskit-demo
+git clone https://github.com/28Shubh05/bell-state-qiskit.git  <br>
+cd bell-state-qiskit
 
 2️⃣ Install requirements
 
 pip install qiskit matplotlib
 
 3️⃣ Launch Jupyter Notebook
+
+💡 Author
+Shubham Sharma
+
+📫 Connect: workid.shubham@example.com | [LinkedIn](www.linkedin.com/in/shubh01sharma)
